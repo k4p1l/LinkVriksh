@@ -9,14 +9,12 @@ body{
     width: 100vw;
     font-family: 'Marcellus SC', serif;
     background-repeat:repeat;
-    
 }
 
 .pfp{
     height: 120px;
     width:120px;
     border-radius:60px;
-
 }
 
 .name{
@@ -45,13 +43,11 @@ body{
     border-radius: 60px;
     display: flex;
     justify-content: space-between;
-
 }
 
 .tile:hover{
     transition:cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.3s;
     transform: scale(1.05);
-    
 }
 
 
@@ -60,7 +56,6 @@ a{
     text-decoration: none;
     color: white;
     font-size:30px;
-    
 }
 
 p{
